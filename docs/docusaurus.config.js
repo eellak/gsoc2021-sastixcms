@@ -6,11 +6,11 @@ module.exports = {
   title: 'Sastix CMS',
   tagline: 'A Java-based general purpose CMS',
   url: 'https://eellak.github.com',
-  baseUrl: '/',
+  baseUrl: '/gsoc2021-sastixcms/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'ellak',
+  organizationName: 'eellak',
   projectName: 'gsoc2021-sastixcms',
   themeConfig: {
     navbar: {
