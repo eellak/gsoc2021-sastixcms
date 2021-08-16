@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksastix_cms_docs=self.webpackChunksastix_cms_docs||[]).push([[535],{5641:function(s){s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"GSoC 2021","permalink":"/blog/gsoc-2021"}]}')}}]);

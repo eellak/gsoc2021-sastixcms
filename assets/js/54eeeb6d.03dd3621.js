@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksastix_cms_docs=self.webpackChunksastix_cms_docs||[]).push([[73],{6660:function(s){s.exports=JSON.parse('{"allTagsPath":"/gsoc2021-sastixcms/blog/tags","slug":"admin-ui","name":"admin-ui","count":1,"permalink":"/gsoc2021-sastixcms/blog/tags/admin-ui"}')}}]);

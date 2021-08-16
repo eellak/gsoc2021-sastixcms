@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksastix_cms_docs=self.webpackChunksastix_cms_docs||[]).push([[198],{3030:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"admin-ui","name":"admin-ui","count":1,"permalink":"/blog/tags/admin-ui"}')}}]);

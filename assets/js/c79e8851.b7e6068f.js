@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksastix_cms_docs=self.webpackChunksastix_cms_docs||[]).push([[973],{4512:function(s){s.exports=JSON.parse('{"allTagsPath":"/gsoc2021-sastixcms/blog/tags","slug":"gsoc-2021","name":"gsoc-2021","count":1,"permalink":"/gsoc2021-sastixcms/blog/tags/gsoc-2021"}')}}]);
