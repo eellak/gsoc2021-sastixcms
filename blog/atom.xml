@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://eellak.github.com/blog</id>
+    <id>https://eellak.github.com/gsoc2021-sastixcms/blog</id>
     <title>Sastix CMS Blog</title>
     <updated>2021-08-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://eellak.github.com/blog"/>
+    <link rel="alternate" href="https://eellak.github.com/gsoc2021-sastixcms/blog"/>
     <subtitle>Sastix CMS Blog</subtitle>
-    <icon>https://eellak.github.com/img/favicon.ico</icon>
+    <icon>https://eellak.github.com/gsoc2021-sastixcms/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[GSoC 2021]]></title>
         <id>gsoc-2021</id>
-        <link href="https://eellak.github.com/blog/gsoc-2021"/>
+        <link href="https://eellak.github.com/gsoc2021-sastixcms/blog/gsoc-2021"/>
         <updated>2021-08-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Sastix CMS made it in the Google Summer of Code projects.]]></summary>
     </entry>

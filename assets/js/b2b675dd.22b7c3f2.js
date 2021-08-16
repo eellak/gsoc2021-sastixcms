@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksastix_cms_docs=self.webpackChunksastix_cms_docs||[]).push([[533],{8017:function(s){s.exports=JSON.parse('{"permalink":"/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

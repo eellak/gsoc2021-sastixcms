@@ -2,14 +2,14 @@
 <rss version="2.0">
     <channel>
         <title>Sastix CMS Blog</title>
-        <link>https://eellak.github.com/blog</link>
+        <link>https://eellak.github.com/gsoc2021-sastixcms/blog</link>
         <description>Sastix CMS Blog</description>
         <lastBuildDate>Mon, 16 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[GSoC 2021]]></title>
-            <link>https://eellak.github.com/blog/gsoc-2021</link>
+            <link>https://eellak.github.com/gsoc2021-sastixcms/blog/gsoc-2021</link>
             <guid>gsoc-2021</guid>
             <pubDate>Mon, 16 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Sastix CMS made it in the Google Summer of Code projects.]]></description>
